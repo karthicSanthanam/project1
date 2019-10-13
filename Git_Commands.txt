@@ -1,0 +1,7 @@
+git init
+
+git add READ_ME.txt
+
+git commit -m "READ_ME.txt first commit"
+
+git remote add origin https://github.com/karthicSanthanam/project1.git
